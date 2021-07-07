@@ -19,6 +19,6 @@
 
 or
 
-##### sudo bash start.sh
+- sudo bash start.sh
 One can play around with the flask application.
 # Happy Codding :( !!!!!
