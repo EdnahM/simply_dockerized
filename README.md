@@ -2,7 +2,7 @@
 
 Download the application.
 
-### git clone --branch EdnahM https://github.com/EdnahM/simply_dockerized.git
+#### git clone --branch EdnahM https://github.com/EdnahM/simply_dockerized.git
 This is to clone the specific branch of EdnahM
 
 
@@ -14,7 +14,7 @@ This is to clone the specific branch of EdnahM
 ### cd into simply_dockerized 
 cd simply dockerized
 
-### run the start,sh file by either the two commands below.
+### Run the start.sh file by either the two commands below.
 #### chmod +X start.sh
 #### ./start.sh
 
