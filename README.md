@@ -1,10 +1,26 @@
 # simply_dockerized Application
 
 Download the application.
-git clone 
 
-Install Docker if not installed on your machine.
+### git clone --branch EdnahM https://github.com/EdnahM/simply_dockerized.git
+This is to clone the specific branch of EdnahM
 
-#### Docker installation.
-One can  test the docker installation using docker -v
-Docker version will be indicated
+
+### Docker installation.
+- Install Docker if not installed on your machine.
+- One can  test the docker installation using docker -v
+- Docker version will be indicated
+
+### cd into simply_dockerized 
+cd simply dockerized
+
+### run the start,sh file by either the two commands below.
+#### chmod +X start.sh
+#### ./start.sh
+
+or
+
+sudo bash start.sh
+
+One can play around with the flask application.
+# Happy Codding!!!!!
