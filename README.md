@@ -1,4 +1,4 @@
-# simply_dockerized Application
+# Simple Dockerized Application
 
 Download the application.
 
