@@ -11,7 +11,7 @@
 - Docker version will be indicated
 
 ### cd into simply_dockerized 
-- cd simply dockerized
+- cd simply_dockerized
 
 ### Run the start.sh file by either the two commands below.
 - chmod +X start.sh
