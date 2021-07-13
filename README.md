@@ -14,7 +14,7 @@
 - cd simply_dockerized
 
 ### Run the start.sh file by either the two commands below.
-- chmod +X start.sh
+- chmod +x start.sh
 - ./start.sh
 
 or
